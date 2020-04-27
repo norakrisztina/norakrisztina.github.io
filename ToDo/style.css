@@ -1,0 +1,111 @@
+.container {
+    margin: auto;
+    width: 50%;
+    height: 700px;
+    background: aqua;
+    padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.todos {
+    width: 50%;
+    height: 90%;
+    margin: auto;
+    background: #F8F8FF;
+/*    margin: 0px 0px 25% 25%;*/
+    
+}
+
+.heading {
+    color: #C0C0C0;
+    font-size: 350%;
+    width: 40%;
+    margin: auto;
+    padding: 30px;
+}
+
+.inputandbutton {
+    width: 90%;
+    margin: auto;
+    height: 8%;
+}
+input {
+    width: 75%;
+    height: 100%;
+    font-size: large;
+    margin-left: 20px;
+    border: 2px solid #C0C0C0;
+    
+}
+
+#first {
+    width: 15%;
+    height: 100%;
+    background:#EE82EE;
+    color: white; 
+    font-size: large;
+    border: 2px solid #C0C0C0;
+ 
+}
+
+ul {
+    list-style-type: none;
+    
+/*    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px*/
+ }
+
+ li {
+     position: relative;
+     margin: 5px 0px 0px 0px;
+     width: 92%;
+}
+  
+.listitem {
+/*    color: #C0C0C0;*/
+    color: #A9A9A9;
+    margin: 0px 0% 0px 0px;
+    width: 83%;
+    font-size: large;
+/*    display: inline;*/
+    
+ }
+ .btn {
+    border: none;
+    outline: none;
+    color:  #C0C0C0;
+    position: absolute;
+ }
+
+ #circle {
+    top: 5px;
+    right:9px;
+    
+ }
+
+ #trash {
+    top: 5px;;
+    right: 40px;
+ 
+ }
+
+ /*
+ .far {
+    position: absolute;
+    top: 5px;
+    right: 9px;
+ }
+
+ .fas {
+    position: absolute;
+    top: 5px;;
+    right: 40px;
+ }
+*/
+ lii {
+    /*    color: #C0C0C0;*/
+        color: #A9A9A9;
+        margin: 5px 120px 0px 8px;
+        
+        font-size: large;
+     }
